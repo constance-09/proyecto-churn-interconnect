@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos (pertenecen al curso, no se suben)
+data/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
