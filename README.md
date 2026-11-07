@@ -51,7 +51,7 @@ Se eligió la versión sin fuga, que es la cifra que se puede esperar en producc
 ## Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/<tu-usuario>/proyecto-churn-interconnect.git
+git clone https://github.com/<constance-09>/proyecto-churn-interconnect.git
 cd proyecto-churn-interconnect
 python -m venv venv
 source venv/bin/activate        # En Windows: venv\Scripts\activate
@@ -65,4 +65,4 @@ Python · pandas · NumPy · scikit-learn · LightGBM · matplotlib · seaborn �
 
 ## Autor
 
-**<constanza silva>** · [LinkedIn](https://www.linkedin.com/in/constanza-silva-ba%C3%A9z-758074178/)
+**<constance-09>** · [LinkedIn](https://www.linkedin.com/in/constanza-silva-ba%C3%A9z-758074178/)
