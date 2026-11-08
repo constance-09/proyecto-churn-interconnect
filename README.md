@@ -64,5 +64,5 @@ jupyter notebook notebooks/proyecto_churn_interconnect.ipynb
 Python · pandas · NumPy · scikit-learn · LightGBM · matplotlib · seaborn · Jupyter
 
 ## Autor
-
+constanza silva, GitHub Constance-09
 **<constance-09>** · [LinkedIn](https://www.linkedin.com/in/constanza-silva-ba%C3%A9z-758074178/)
